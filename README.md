@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **Discord: ItMeSarah#6076**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

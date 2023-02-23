@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript,CSS,**
 
-- 👨‍💻 All of my projects are available at [ItMeSarah.github.io](ItMeSarah.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/ItMeSarah](Github)
 
 - 📫 How to reach me **Discord: ItMeSarah#6076**
 

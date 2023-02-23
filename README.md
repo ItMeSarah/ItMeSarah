@@ -5,10 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itmesarah&theme=onedark" alt="itmesarah" /></a> </p>
 
+
+You can contact me on Discord, or join my Discord server : <a href="https://discord.gg/7kzb9h27nR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="7kzb9h27nR" height="30" width="40" /></a>
+
+
 - 🔭 I’m currently working on [usrbg](https://github.com/ItMeSarah/ItMeSarah.github.io/blob/main/usrbg/usrbg.css)
 - - 🔭 I’m currently working on [vcbg](https://github.com/ItMeSarah/ItMeSarah.github.io/blob/main/vcbg/vcbg.css)
 
-- 🌱 I’m currently learning **Javascript,CSS,**
+- 🌱 I’m currently learning **Javascript, CSS**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/ItMeSarah)
 

@@ -5,8 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itmesarah&theme=onedark" alt="itmesarah" /></a> </p>
 
-- 🔭 I’m currently working on [usrbg](ItMeSarah.github.io/usrbg/usrbg.css)
-- - 🔭 I’m currently working on [vcbg](ItMeSarah.github.io/vcbg/vcbg.css)
+- 🔭 I’m currently working on [usrbg](https://github.com/ItMeSarah/ItMeSarah.github.io/blob/main/usrbg/usrbg.css)
+- - 🔭 I’m currently working on [vcbg](https://github.com/ItMeSarah/ItMeSarah.github.io/blob/main/vcbg/vcbg.css)
 
 - 🌱 I’m currently learning **Javascript,CSS,**
 
